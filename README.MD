@@ -7,10 +7,16 @@ Code for different modules in different branch
 
 git branch -a
 
-01-installation
-02-grid
-03-navbar
-04-alerts-modals
-05-forms
-06-customize
-HEAD -> 01-installation (default branch)
+   * 01-installation
+
+   * 02-grid
+
+   * 03-navbar
+
+   * 04-alerts-modals
+
+   * 05-forms
+
+   * 06-customize
+
+   * HEAD -> 01-installation (default branch)
